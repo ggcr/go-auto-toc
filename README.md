@@ -5,11 +5,11 @@
 
 ## Usage
 If you are at the same directory of the README.md that you want to generate the Table of Contents, the tool will automatically find the file.
-`bash
+```bash
 go-auto-toc .
-`
+```
 
 You can also pass a given directory.
-`bash
+```bash
 go-auto-toc -f path/to/README.md
-`
+```
