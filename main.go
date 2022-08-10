@@ -32,7 +32,7 @@ func main() {
 			val := line[idx]
 			if val == 35 {
 				if idx != 0 && idx != 1 {
-					out.WriteString("  ")
+					out.WriteString("   ")
 					fmt.Printf("  ")
 					prevFlag = true
 				} else if idx == 1 {

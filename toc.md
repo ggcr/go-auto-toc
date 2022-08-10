@@ -1,25 +1,25 @@
 -  Introduction
-  -  Naive Bayes assumption of Independence
-  -  Objective
+   -  Naive Bayes assumption of Independence
+   -  Objective
 -  Proposal
-  -  Basic Bayesian Network
-    -  Feature Engineering: Train-test split
-      -  Read dataset
-      -  Train-split test
-    -  Training: Dictionaries generation and "stopwords"
-      -  Dictionaries generation
-      -  Stopwords
-    -  Prediction
-    -  Metrics
-  -  Crossvalidation
-    -  K-Fold technique
-  -  Playing with dictionary sizes
-    -  Accuracy and runtime
-  -  Smoothing Techniques
+   -  Basic Bayesian Network
+      -  Feature Engineering: Train-test split
+         -  Read dataset
+         -  Train-split test
+      -  Training: Dictionaries generation and "stopwords"
+         -  Dictionaries generation
+         -  Stopwords
+      -  Prediction
+      -  Metrics
+   -  Crossvalidation
+      -  K-Fold technique
+   -  Playing with dictionary sizes
+      -  Accuracy and runtime
+   -  Smoothing Techniques
 -  Results
-  -  Playing with dictionary sizes
-  -  Crossvalidation
-  -  Smoothing Techniques
+   -  Playing with dictionary sizes
+   -  Crossvalidation
+   -  Smoothing Techniques
 -  Conclusions
-  -  Problems
-  -  Final Remarks
+   -  Problems
+   -  Final Remarks
